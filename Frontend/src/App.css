@@ -104,13 +104,12 @@ button:active {
 .pulse {
   animation: pulse 2s ease-in-out infinite;
 }
-
+{
     top: 107px;
     height: 26px;
     width: auto;
     transform: perspective(2000px) rotateZ(300deg) rotateX(40deg) rotateY(39deg)
       scale(0.8);
-  }
 }
 
 #center {
